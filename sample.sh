@@ -1,4 +1,5 @@
 echo "Hello  i am learning git + unix "
 echo " Today's date is $(date) "
-echo " Time now is $(time) "
-make changes
+echo " Have a good Time  "
+x=52
+echo $x
